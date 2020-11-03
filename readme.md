@@ -17,6 +17,10 @@ Just made some changes to accept values from a cvs file and the fitness function
 
 ![Bukin04 Graph](bukin04-graph.png)
 
+### Run the Script
+
+`python script.py`
+
 ### Files
 
 `script.py` is the modified file, it will minimize the function only using the values that are in the file `values.csv`
